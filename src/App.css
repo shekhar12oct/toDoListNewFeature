@@ -1,0 +1,53 @@
+.heading1
+{
+  position: absolute;
+    width: 100%;
+    font-size: 100px;
+    font-weight: 380;
+    text-align: center;
+    color: rgba(175, 47, 47, 0.15);
+    -webkit-text-rendering: optimizeLegibility;
+    -moz-text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
+}
+.btn2,.btn3,.btn4,.btn1,.btn5 :hover
+{
+  cursor: pointer;
+}
+.btn2,.btn3,.btn4,.btn1,.btn5
+{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 5px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  height: 42px;
+  width: 142px;
+  margin-top: 15px;
+  margin-left: 130px;
+}
+
+.btn2,.btn3,.btn4,.btn5
+{
+  border-style:unset;
+  margin-inline: 10px;
+  margin-bottom: 6px;
+}
+
+.item-left
+{
+  margin-left: 250px;
+  padding-left: 40px;
+
+}
+
+.wrapping-btns
+
+{
+  margin-left: 140px;
+  margin-top: 15px;
+  position: relative;
+}

@@ -1,0 +1,72 @@
+.view-item
+{
+width: 504px;
+margin-top: -129px;
+margin-left: 420px;
+border: 2px slategray
+
+
+}
+.form-input input
+{
+    position: relative;
+    margin-left: 420px;
+    margin-top: 220px;
+    height: 50px;
+    width: 500px;
+
+}
+.todoapp {
+    background: #fff;
+    margin: 130px 0 40px 0;
+    position: relative;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%), 0 25px 50px 0 rgb(0 0 0 / 10%);
+}
+
+.view-item form
+{
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  margin:0.5px;
+  background: white;
+  color: rgb(3, 3, 3);
+}
+
+
+.view-item form button
+{
+    padding: 5px 10px;
+    color: white;
+    border: 'none';
+    background:rgb(5, 5, 5);
+
+}
+
+.view-item form p{
+    flex: 1;
+    padding: 0 10px;
+}
+
+
+.input-field
+
+{
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+.view-form-items
+
+{
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+.input-btn :hover
+{
+ cursor: pointer;
+}
+
